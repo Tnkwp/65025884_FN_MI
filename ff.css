@@ -1,0 +1,81 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: Arial;
+}
+.header{
+    padding: 10px;
+    text-align: left;
+    background-color: rgb(231, 231, 231);
+}
+.link{
+    padding: 3px;
+    background-color: rgb(9, 174, 240);
+    
+}
+.Left{
+    width: 75%;
+    background-color: gray;
+}
+.Leftblock1{
+    width: auto;
+    background-color: rgb(255, 255, 255);
+}
+.blueblock{
+    width: auto;
+    height: 100px;
+    margin: 20px;
+    background-color: aqua;
+}
+.childbox1{
+    width: 120px;
+    height: 60pxpx;
+    margin: 10px;
+    background-color: red;
+    float: left;
+}
+.childbox2{
+    width: 120px;
+    height: 60pxpx;
+    margin: 10px;
+    background-color: green;
+    float: left;
+}
+.childbox3{
+    width: 120px;
+    height: 60pxpx;
+    margin: 10px;
+    background-color: red;
+    float: left;
+}
+.childbox4{
+    width: 120px;
+    height: 60pxpx;
+    margin: 10px;
+    background-color: green;
+    float: left;
+}
+.Leftblock2{
+    width: auto;
+    background-color: white;
+}
+.greenblock{
+    width: 600px;
+    height: 100px;
+    background-color: green;
+    float: left;
+}
+.childbox5{
+    width: 100px;
+    height: 60pxpx;
+    margin: 10px;
+    background-color: purple;
+    float: left;
+}
+.purpleblock{
+    width: 600px;
+    height: 100px;
+    background-color: purple;
+    float: left;
+}
